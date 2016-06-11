@@ -4,12 +4,12 @@ bio:                'hello'
 description:        "KHU Economics class of 2017."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/Minion.png'
+background:         'assets/img/galaxy_universe.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://heejay.github.io
-url:                http://127.0.0.1:4000
+#url:                http://127.0.0.1:4000
+url:                 http://heejay.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -50,7 +50,7 @@ instagram:          username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
